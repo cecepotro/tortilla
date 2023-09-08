@@ -11,6 +11,7 @@ package mx.itson.tortilla.negocio;
 public class Operacion {
     
     public String[] separar(String oracion){
+        // hola a todos jajajaja xD
         String[] resultado = oracion.split(",");
         return resultado;
     }
